@@ -35,6 +35,5 @@ Script de monitoreo y recuperación automática de servicios web mediante valida
 
 Ingeniero en tecnologías de la información | Analisas de ciberseguridad | Seguridad de la información
 
-GitHub: https://github.com/alexalcivarm7
-
-LinkedIn: https://www.linkedin.com/in/alexalcivarm7/
+* [Github](https://github.com/alexalcivarm7)
+* [Linkedin](https://www.linkedin.com/in/alexalcivarm7/)
