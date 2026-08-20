@@ -26,7 +26,7 @@ Add-Type -AssemblyName System.Windows.Forms
 # -------------------------------------------------------------------------------------------------------------
 # Configurar el nombre que desea mostrar como titulo en la ventana de ejecución.
 # =============================================================================================================
-$Host.UI.RawUI.WindowTitle = "Fajardo Soft Monitoring - Creado por Alex Alcivar"
+$Host.UI.RawUI.WindowTitle = "MONITOREO - SRV_PRODUCCION"
 
 $ConfirmPreference = 'None'
 $WarningPreference = 'SilentlyContinue'
@@ -37,7 +37,7 @@ $WarningPreference = 'SilentlyContinue'
 # La aplicación debe responder HTTP 200 cuando se encuentre operativa.
 # =============================================================================================================
 
-$url = "http://192.168.156.99:8080/intranet/faces/private/login/index.xhtml"
+$url = "http://url_del_Servidor.com"
 
 # =============================================================================================================
 # ARCHIVOS DE CONTROL DEL SERVICIO
@@ -71,7 +71,7 @@ $reiniciando = $false
 # =============================================================================================================
 
 Write-Host "==========================================================================" 
-Write-Host " MONITOREO FAJARDO SOFT INICIADO" -ForegroundColor Cyan
+Write-Host " MONITOREO SRV_PRODUCCION" -ForegroundColor Cyan
 Write-Host " URL: $url" -ForegroundColor Cyan
 Write-Host "==========================================================================" 
 Write-Host ""
