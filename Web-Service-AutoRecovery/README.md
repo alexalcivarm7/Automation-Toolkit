@@ -399,5 +399,5 @@ El código puede ser utilizado, modificado y adaptado según las condiciones est
 
 Ingeniero en tecnologías de la información | Analista de ciberseguridad | Seguridad de la información
 
-* [Github](https://github.com/alexalcivarm7)
-* [Linkedin](https://www.linkedin.com/in/alexalcivarm7/)
+* GitHub: https://github.com/alexalcivarm7
+* LinkedIn: https://www.linkedin.com/in/alexalcivarm7/
