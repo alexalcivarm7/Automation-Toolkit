@@ -92,7 +92,7 @@ Script principal encargado de:
 Instala automáticamente una tarea programada con las siguientes características:
 
 ```text
-Nombre              : Optimizador Alex Alcivar
+Nombre              : Endpoint Maintenance Automation
 Cuenta              : NT AUTHORITY\SYSTEM
 Privilegios         : Elevados
 Inicio              : Al iniciar sesión
@@ -194,7 +194,7 @@ Biblioteca del Programador de tareas
 Validar que exista:
 
 ```text
-Optimizador Alex Alcivar
+Endpoint Maintenance Automation
 ```
 
 ---
