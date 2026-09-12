@@ -73,8 +73,7 @@ Secure-Endpoint-Operations
 │
 ├── Optimizador.bat
 ├── Instalar_Tarea.bat
-├── Desinstalar_Optimizador.bat
-└── README.md
+└── Desinstalar_Optimizador.bat
 ```
 
 ### Optimizador.bat
