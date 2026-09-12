@@ -14,6 +14,8 @@ Este repositorio reúne soluciones desarrolladas para automatizar tareas operati
 ### Web-Service-AutoRecovery
 Script de monitoreo y recuperación automática de servicios web mediante validaciones HTTP.
 
+📁:`/Web-Service-AutoRecovery`
+
 **Características:**
 - Monitoreo continuo vía HTTP.
 - Control de fallos consecutivos.
@@ -32,6 +34,8 @@ Script de monitoreo y recuperación automática de servicios web mediante valida
 
 ### Secure-Endpoint-Operations
 Solución de automatización para mantenimiento preventivo y optimización controlada de estaciones de trabajo Windows. Diseñada para reducir tareas repetitivas de soporte técnico mediante procesos programados, trazables y ejecutados de forma segura bajo la cuenta del sistema operativo.
+
+📁:`/Secure-Endpoint-Operations`
 
 **Características:**
 - Limpieza automática de Windows Temp.
