@@ -397,7 +397,7 @@ El código puede ser utilizado, modificado y adaptado según las condiciones est
 
 **Alex Vicente Alcivar Moya**
 
-Ingeniero en tecnologías de la información | Analisas de ciberseguridad | Seguridad de la información
+Ingeniero en tecnologías de la información | Analista de ciberseguridad | Seguridad de la información
 
 * [Github](https://github.com/alexalcivarm7)
 * [Linkedin](https://www.linkedin.com/in/alexalcivarm7/)
